@@ -33,6 +33,9 @@ A simple Note App that allows users to add, edit, and delete notes. Users can ei
 ├── app.js             # JavaScript file for note functionality
 └── README.md          # Documentation file (this file)
 ```
+## Screen-shot
+
+![Note App Screenshot](./screenshot/note-app.png)
 
 ## Technologies Used
 

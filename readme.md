@@ -6,12 +6,17 @@ A simple Note App that allows users to add, edit, and delete notes. Users can ei
 
 ## Features
 
-- Add a new note using the input field and the "Ajouter" button or by pressing the "Enter" key.
-- Each note has two actions: **Edit** and **Delete**.
-  - **Edit**: Allows the user to modify the content of the note.
-  - **Delete**: Removes the note from the list.
-- Notes are displayed in a simple, responsive layout.
-- Clean, minimalistic UI with green for the "Add" button, blue for "Edit", and red for "Delete."
+- **Add a New Note**: Use the input field and the "Ajouter" button or press the "Enter" key to add a note.
+- **Edit and Delete Notes**:
+  - **Edit**: Modify the content of the note.
+  - **Delete**: Remove the note from the list.
+- **Persist Notes with `localStorage`**: Notes are saved in the browser's local storage, ensuring they remain available between sessions.
+- **Animations for Adding and Deleting Notes**: Smooth fade-in and fade-out animations enhance the user experience.
+- **Responsive Layout**: Notes are displayed in a simple, responsive layout.
+- **Clean, Minimalistic UI**:
+  - Green for the "Add" button
+  - Blue for "Edit"
+  - Red for "Delete"
 
 ## How to Use
 

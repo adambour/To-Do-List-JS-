@@ -55,7 +55,6 @@ A simple Note App that allows users to add, edit, and delete notes. Users can ei
 
 
 - Implement Note Sorting and Filtering Options: Enable users to sort notes by date, category, or other criteria, and filter them based on selected categories or tags.
-- User Authentication: Implement user login functionality to sync notes across different devices.
 - Export/Import Notes: Allow users to export their notes as a file and import them back into the app.
 - Rich Text Editing: Enable formatting options for notes, such as bold, italics, and lists.
 
